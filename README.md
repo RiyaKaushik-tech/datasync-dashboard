@@ -4,9 +4,6 @@
 
 DashSync is a **Next.js + TypeScript** web application that aggregates **trending movies** and **top news articles**, personalized to each user’s **preferences** (genre + category) with **authentication**.
 
-🙋 Built as an assignment for **Software Development Engineer – Frontend (Unthinkable Solutions)**  
-🛠 Fully responsive, production-ready, and extensible.
-
 ---
 
 ## 👩‍💻 Author
