@@ -276,9 +276,3 @@ NEXT_PUBLIC_NEWS_API_KEY=...
 ## Author
 
 **Riya Kaushik**
-
----
-
-## License
-
-MIT License (as indicated in the repository README badge). Add a `LICENSE` file to the repository root to make this explicit in-source.
